@@ -16,7 +16,12 @@ public class WEEK3 {
     public static void main(String[] args) 
     {
       System.out.println("Learning github operation ");
-      System.out.println("Learning github push ");   // TODO code application logic here
+      System.out.println("Learning github push operation ");
+      System.out.println("Learning github pull operation ");
+      System.out.println("Learning github fetch+merge operation ");   // TODO code application logic here
+// TODO code application logic here
+
+      // TODO code application logic here
 // TODO code application logic here
     }
     
